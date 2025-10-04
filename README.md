@@ -7,17 +7,17 @@ Computer Science, BS
 
 YT Link to the Code Review of these Projects: https://youtu.be/QB4pWzO4TVo 
 
-## Project Enhancement 1:
+# Project Enhancement 1:
 
-# Software Design and Engineering Enhancement – Liar’s Dice Game
+## Software Design and Engineering Enhancement – Liar’s Dice Game
 
 This Liar’s Dice project is an object-oriented C++ implementation of the classic bluffing dice game. Originally developed in an earlier programming course, the game featured core gameplay mechanics such as dice rolling, player turns, and simple win conditions. For my enhancement, I refactored the project to follow modern software engineering and design principles, focusing on modularity, readability, and maintainability.
 
 The enhancement introduced the State design pattern, allowing the game to transition cleanly between bidding, challenging, and revealing phases. I improved code structure by separating functionality into classes (Player, Game, and distinct state classes), added comprehensive inline documentation, and introduced input validation to prevent crashes or logic errors.
 
-## Project Enhancement 2 and 3:
+# Project Enhancement 2 and 3:
 
-# Algorithms and Data Structures & Database Enhancements – Course Planner Project
+## Algorithms and Data Structures & Database Enhancements – Course Planner Project
 
 This Course Planner project was originally created in CS-300 to demonstrate core data structure and algorithmic design principles. The program reads a CSV file of university courses and their prerequisites, organizes them into a binary search tree (BST), and allows users to search, view, and print a course list in sorted order.
 
