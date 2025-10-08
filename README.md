@@ -15,6 +15,8 @@ This Liar’s Dice project is an object-oriented C++ implementation of the class
 
 The enhancement introduced the State design pattern, allowing the game to transition cleanly between bidding, challenging, and revealing phases. I improved code structure by separating functionality into classes (Player, Game, and distinct state classes), added comprehensive inline documentation, and introduced input validation to prevent crashes or logic errors.
 
+https://github.com/Kode-e55555/Portfolio/tree/ae875a5a9ed0848b6ea65729c520bd4f3107db48/Project%201%20Files
+
 ## Algorithms and Data Structures & Database Enhancements – Course Planner Project
 
 This Course Planner project was originally created in CS-300 to demonstrate core data structure and algorithmic design principles. The program reads a CSV file of university courses and their prerequisites, organizes them into a binary search tree (BST), and allows users to search, view, and print a course list in sorted order.
