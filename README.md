@@ -1,5 +1,3 @@
-# Portfolio
-
 ### Education:
 Computer Science, BS - Southern New Hampshire University 
 
