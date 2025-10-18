@@ -1,7 +1,8 @@
 # Portfolio
 
 ### Education:
-Computer Science, BS
+Computer Science, BS - Southern New Hampshire University 
+Diploma, HS - Staunton River High School
 
 ## Self-Assessment:
 
