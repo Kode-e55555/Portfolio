@@ -1,5 +1,33 @@
-title: Takoda Jennings
-#logo: 
-#description: 
-#show_downloads: true
+# Site settings
+title: ePortfolio 
+description: Computer Scientist ePortfolio to show case previously worked on projects 
+#logo:
+#baseurl: "" # The subpath of your site, e.g. /blog
+#url: "http://localhost:4000" # The base hostname & protocol for your site
+
+# Author information (optional)
+author:
+  name: Takoda Jennings
+  email: takodajennings@gmail.com
+  github: Kode-e55555
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-modernist
+plugins:
+
+# Exclude from processing
+#exclude:
+
+# Front Matter Defaults (optional)
+defaults:
+  - scope:
+      path: "" # An empty string here means all files in the project
+    values:
+      layout: "default" # Sets a default layout for all pages
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      author: "Your Name" # Sets a default author for all posts
+      layout: "post" # Sets a default layout for all posts
